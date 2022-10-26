@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dea6efa.css",
-    "main.js": "/static/js/main.89add9bb.js",
-    "static/media/stackline_logo.png": "/static/media/stackline_logo.9d0cc5f210a834d98822.png",
-    "index.html": "/index.html",
-    "main.5dea6efa.css.map": "/static/css/main.5dea6efa.css.map",
-    "main.89add9bb.js.map": "/static/js/main.89add9bb.js.map"
+    "main.css": "/Stackline-task.github.io/static/css/main.5dea6efa.css",
+    "main.js": "/Stackline-task.github.io/static/js/main.fd85df0f.js",
+    "static/media/stackline_logo.png": "/Stackline-task.github.io/static/media/stackline_logo.9d0cc5f210a834d98822.png",
+    "index.html": "/Stackline-task.github.io/index.html",
+    "main.5dea6efa.css.map": "/Stackline-task.github.io/static/css/main.5dea6efa.css.map",
+    "main.fd85df0f.js.map": "/Stackline-task.github.io/static/js/main.fd85df0f.js.map"
   },
   "entrypoints": [
     "static/css/main.5dea6efa.css",
-    "static/js/main.89add9bb.js"
+    "static/js/main.fd85df0f.js"
   ]
 }
